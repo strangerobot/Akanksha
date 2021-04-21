@@ -23,6 +23,7 @@ function setup() {
 function shownext()
 {
 
+
 current=int(random(0,count));
 //print(current);
 document.getElementById("text").innerHTML = table.getString(current, 0)
@@ -44,7 +45,7 @@ function blurtextmore()
 document.getElementById("text").style.filter= "blur(6px)";
 document.getElementById("text").style.color="#ffffff69";
 print(current)
-file=current%3+1;
+file=current%4+1;
 url="audio/"+file+".mp3";
 print(url)
 new Audio(url).play();
