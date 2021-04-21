@@ -84,7 +84,7 @@ body {margin: 0;}
 
 #text {
     position:relative;
-    top: 30vh;
+    top: 25vh;
     font-size: 4rem;
     font-weight: 100;
     font-family: 'BioRhyme', serif;
@@ -161,7 +161,7 @@ body {margin: 0;}
 }
 
 #circle:hover{
-  border: 2px solid #ff8787;
+  border: 5px solid #ff8787;
   filter: blur(0px);
 
 }
