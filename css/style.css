@@ -60,7 +60,7 @@ body {margin: 0;}
   position:relative;
   text-align: center;
   top: 10%;
-  font-size: 1.8em;
+  font-size: 3vh;
   padding:10px;
   align-items: center;
   font-family: 'BioRhyme', serif;
@@ -84,15 +84,15 @@ body {margin: 0;}
 
 #text {
     position:relative;
-    top: 30%;
-    font-size: 3em;
+    top: 30vh;
+    font-size: 4rem;
     font-weight: 100;
     font-family: 'BioRhyme', serif;
-    padding:  0 10% 0 10%;
-    letter-spacing: -1 px;
+    padding:  0 25vw 0 25vw;
+    letter-spacing: -2 px;
     color: #58575fb3;
     transition : letter-spacing 0.5s;
-    line-height: 0.9em;
+    line-height: 3.5rem;
 
 }
 
@@ -111,8 +111,8 @@ body {margin: 0;}
 
     position: fixed;
     bottom: 10%;
-    height: 100px;
-    width: 100px;
+    height: 10vh;
+    width: 10vh;
     background-color: transparent;
     border: 20px solid;
     border-radius: 50%;
