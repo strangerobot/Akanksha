@@ -147,7 +147,7 @@ body {margin: 0;}
 #circle{
 
   left: 50%;
-  margin-left: -50px;
+  margin-left: -5vh;
 
     position: fixed;
     bottom: 10%;
