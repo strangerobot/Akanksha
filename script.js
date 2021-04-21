@@ -1,7 +1,7 @@
 
 var count=1;
 function preload() {
-  table = loadTable("http://p5js.org/reference/assets/mammals.csv", 'csv', 'header');
+  table = loadTable("https://p5js.org/reference/assets/mammals.csv", 'csv', 'header');
 
 }
 
